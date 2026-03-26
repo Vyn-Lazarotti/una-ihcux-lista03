@@ -3,7 +3,7 @@ using System.Threading;
 
 // --- UX / IHC: Visibilidade do Status do Sistema ---
 Console.Clear();
-Console.ForegroundColor = ConsoleColor.Cyan;
+Console.ForegroundColor = ConsoleColor.Red;
 Console.WriteLine("=== SISTEMA EXPERT: MÓDULO DE DEEP SCAN ===");
 Console.ResetColor();
 
