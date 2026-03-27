@@ -1,6 +1,6 @@
 # una-ihcux-lista03
 
-Este projeto aplica a 1ª Heurística de Nielsen.
+Este projeto aplica a 1ª Heurística de Nielsen: visibilidade do status do sistema
 
 ## 📸 Evidência de Execução
 
